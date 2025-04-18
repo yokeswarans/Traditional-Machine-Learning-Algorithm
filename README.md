@@ -1,0 +1,1 @@
+* A practice repository for understanding and implementing traditional machine learning algorithms, demonstrating how they work through hands-on example

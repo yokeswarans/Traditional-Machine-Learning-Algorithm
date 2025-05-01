@@ -1,6 +1,6 @@
 # 🐳 Welcome App - Dockerized with Docker Hub
 
-This is a simple static web application packaged in a Docker image using Nginx, and pushed to Docker Hub for easy sharing and deployment.
+This is a simple leraning purpose --- static web page packaged in a Docker image using Flask, and pushed to Docker Hub for easy sharing and deployment.
 
 ---
 
